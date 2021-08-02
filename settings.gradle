@@ -1,2 +1,2 @@
-rootProject.name='FloatingWindowDemo'
+rootProject.name='FloatingImageWindow'
 include ':app'
